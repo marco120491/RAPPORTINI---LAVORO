@@ -1,0 +1,20 @@
+RAPPORTINI LAVORO — versione 1
+
+App web installabile per iPhone e Android. Funziona come progetto separato dalla precedente app RAVELPHONE HDD.
+
+INSTALLAZIONE ONLINE
+1. Crea un NUOVO repository GitHub pubblico (per esempio rapportini-lavoro).
+2. Carica nella radice del repository TUTTI i file contenuti in questo ZIP, non lo ZIP stesso.
+3. In Settings > Pages imposta Deploy from a branch, branch main, cartella / (root), poi Save.
+4. Apri il link HTTPS generato da GitHub Pages in Safari su iPhone.
+5. In Safari: Condividi > Aggiungi alla schermata Home.
+
+USO
+- Compila data, tipo di lavoro e descrizione attività (obbligatori).
+- Puoi aggiungere fino a 8 foto, campi personalizzati e una firma.
+- Premi Salva e visualizza rapportino. Da Crea / salva PDF, usa la funzione di stampa di iPhone e poi Condividi > Salva su File.
+- Lo storico, le foto e le firme sono salvati SOLO sul dispositivo/browser corrente. Un collega che apre lo stesso indirizzo ha un archivio separato.
+- Premi Esporta copia di sicurezza regolarmente; conserva il file JSON in File/iCloud. Importa copia di sicurezza ripristina i rapportini. Il JSON include foto e firme, quindi può essere grande e contiene dati personali.
+- Cancellare i dati del sito o rimuovere l'app può eliminare l'archivio locale. Un PDF già salvato in File resta separato.
+
+Questa versione non sincronizza i dati tra dispositivi e non è pubblicata sull'App Store.
